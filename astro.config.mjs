@@ -7,3 +7,5 @@ export default defineConfig({
   site: "https://sweet-kitten-dcaa13.netlify.app",
   integrations: [tailwind(), svelte()],
 });
+
+
